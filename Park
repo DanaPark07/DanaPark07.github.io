@@ -4,9 +4,16 @@
 <title>Page Title</title>
 </head>
 <body>
+< rel="icon" type="image/x-icon" 
+<h1>School</h1>
+<p style= "background-color: #F0F8FF;">I want to go home!</p>
+<hr>
+<p>Hello there?</p>
+<p>Go to <br> school</p>
+<p style= color: "light blue;"> I want to sleep</p>
+<img src="smiley.gif" style=";"> <p>
 
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
-
+<p style= "background-color: #BEFFF2;"> Take me home!</p>
+<img src="image.jpg" width="500" height="500">
 </body>
 </html>
